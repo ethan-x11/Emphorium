@@ -1,5 +1,6 @@
 # Emphorium
 
+![galaxy-cover-template#2](https://user-images.githubusercontent.com/62725955/197359031-ad06dc1e-c21b-4de8-88ce-6e555d4c1dee.jpg)
 
 
 🙋**Participants -**
@@ -20,8 +21,9 @@ An E-Commerce web-app made using React.js, Next.js and medusa.js.
 
 ### Preview
 
-
-
+![1](https://user-images.githubusercontent.com/62725955/197359240-f3efba62-654a-45ba-9fa3-62e49623fee4.png)
+![2](https://user-images.githubusercontent.com/62725955/197359243-d50b4675-686b-4f64-acc5-d03c57df361b.png)
+![3](https://user-images.githubusercontent.com/62725955/197359246-0eaeeac5-7168-47bd-8fd0-5d24b0e3ed30.png)
 
 ## Set up Project
 
