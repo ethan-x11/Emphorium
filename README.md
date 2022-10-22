@@ -1,20 +1,22 @@
-# Shopeee
+# Emphorium
 
 
 
-### Participants
-
-🙋**Particioants -**
+🙋**Participants -**
 -----------------
 
 | Name | Github | Twitter | Discord |
 | :-------------: | :-------------: | :-------------: | :-------------: |
-| Sugato Bagchi | SugatoBagchi | 
+| Sugato Bagchi | SugatoBagchi | @sugato_bagchi | Sugato Bagchi#6027
+| Subhanjan Dutta | ethan-x11 | @subhanjan_dutta | Subhanjan Dutta#1833
+| Kajal Jaiswal | kajal1801 | @KajalJaiz18 | Kajal#2722
+| Anusha Bera | anusha-3 | @anusha_bera | Anusha Bera#8571
 
 
-### Description
 
-We have created a Web storefront using NextJs paired with MedusaJs
+### **Description**
+
+An E-Commerce web-app made using React.js, Next.js and medusa.js.
 
 ### Preview
 
@@ -43,7 +45,7 @@ Prerequisites:
 git clone https://github.com/ethan-x11/Emphorium.git
 ```
 
-1. Change directory and install dependencies:
+2. Change directory and install dependencies:
 
 ```bash
 cd Emphorium
